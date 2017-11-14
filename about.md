@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi. I go by Sandro.
 
-### More Information
+### Web development
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently enrolled in NYCDA's three-month Web Development Intensive bootcamp in Philadelphia.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I like to involve myself in cool projects that use hardware, geography, and sound.
