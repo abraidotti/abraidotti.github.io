@@ -12,6 +12,8 @@ Let's take a look at the first example:
 
 ![msg maker nav code](/img/2017-11-21.msg-maker-nav.png "Msg Maker Nav code")
 
-As you can see in the commentary, George made some dynamically-updating buttons all in ERB, without using an javascript. I was impressed. Here's a video of the nav in action.
+As you can see in the commentary, George and I made some dynamically-updating buttons all in ERB, without using an javascript. Here's a video of the nav in action.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3-6Oi7x-Lx4" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe src="/img/2017.11.21.nav.gif" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
+
+Sure, we could have designed a functional, maybe even elegant, solution with some Javascript event listeners, but George's minimal approach worked even better. It takes up fewer lines of code, less processing power, and it's all there in one file.
