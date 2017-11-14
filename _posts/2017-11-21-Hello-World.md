@@ -10,23 +10,7 @@ Our latest assignment is to use the Sinatra framework to create a message board-
 My costudents Chris, George, and I finished ours up a day early. Chris and George are great. The class took about a week to get through Sinatra routing basics, but George clued me in to using embedded Ruby (aka ERB) with dexterity.
 Let's take a look at the first example:
 
-`<nav>
-      <a class = "left" href="/">home</a>
-      <!-- first check the user's login status -->
-      <% if !session[:login] %>
-        <!-- if user is not logged in, display a "login" button: -->
-        <!-- otherwise, display "logout" -->
-        <a class = "left" href="<%= current_user == nil ? '/login' : '/logout' %>">
-        <%= current_user == nil ? 'login' : 'logout' %>
-        </a>
-        <!-- and if the user is logged in, display a "view my profile" button -->
-        <% if current_user != nil && !session[:in_profile_page] %>
-          <a class="right" href="/profile/show/<%= current_user.id %>">
-            View My Profile
-          </a>
-        <% end %>
-      <% end %>
-    </nav>`
+![msg maker nav code](/_posts/2017-11-21.msg-maker-nav "Msg Maker Nav code")
 
 As you can see in the commentary, George made some dynamically-updating buttons all in ERB, without using an javascript. I was impressed. Here's a video of the nav in action.
 
