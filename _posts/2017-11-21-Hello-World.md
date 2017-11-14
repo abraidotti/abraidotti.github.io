@@ -14,4 +14,4 @@ Let's take a look at the first example:
 
 As you can see in the commentary, George made some dynamically-updating buttons all in ERB, without using an javascript. I was impressed. Here's a video of the nav in action.
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/3-6Oi7x-Lx4" frameborder="0" gesture="media" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/3-6Oi7x-Lx4" frameborder="0" allowfullscreen></iframe></center>
