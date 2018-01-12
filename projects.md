@@ -13,7 +13,7 @@ permalink: /projects/
 
 ### *[Trippin](http://trippin-app.herokuapp.com)*
 #### a trip and event planner
-  * developed with: Devin Hart and [Nikki Witte](https://nwitte4.github.io/)
+  * developed with: [Devin Hart](https://devin-hart.github.io/) and [Nikki Witte](https://nwitte4.github.io/)
   * made with: **Rails**, styled with Skeleton.CSS
   * uses: Google Maps API
 
