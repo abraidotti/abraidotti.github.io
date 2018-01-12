@@ -10,7 +10,7 @@ Our latest assignment is to use the Sinatra framework to create a message board-
 My costudents Chris, George, and I finished ours up a day early. Chris and George are great. The class took about a week to get through Sinatra routing basics, but George clued me in to using embedded Ruby (aka ERB) with dexterity.
 Let's take a look at the first example:
 
-![msg maker nav code](../img/2017-11-21-first-post/2017-11-21.msg-maker-nav.png "Msg Maker Nav code"){:class="img-responsive"}
+![msg maker nav code]{{site.url}}(/img/2017-11-21-first-post/2017-11-21.msg-maker-nav.png "Msg Maker Nav code"){:class="img-responsive"}
 
 As you can see in the commentary, George and I made some dynamically-updating buttons all in ERB, without using an javascript. Here's a video of the nav in action.
 
