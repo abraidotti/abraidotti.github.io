@@ -14,6 +14,6 @@ Let's take a look at the first example:
 
 As you can see in the commentary, George and I made some dynamically-updating buttons all in ERB, without using an javascript. Here's a video of the nav in action.
 
-<center><iframe src="/img/2017.11.21.nav.gif" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></center>
+<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/xUNd9LkX4s4Myu24GQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Sure, we could have designed a functional, maybe even elegant, solution with some Javascript event listeners, but George's minimal approach worked even better. It takes up fewer lines of code, less processing power, and it's all there in one file.
