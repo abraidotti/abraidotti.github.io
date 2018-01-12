@@ -17,6 +17,6 @@ I like to involve myself in cool projects that use hardware, geography, and soun
 
 ### Related pursuits
 
-A few years ago, I cofounded a coding group with some friends. We called it the Philadelphia Research and Innovation Group ([https://phrig.github.io/](PhRIG) for short). We recently participated in a recent state-sponsored [https://technical.ly/philly/2017/11/03/final-projects-code4pa-hackathon/](Hackathon), and our project has gotten some attention from the governor's office.
+A few years ago, I cofounded a coding group with some friends. We called it the Philadelphia Research and Innovation Group ([PhRIG](https://phrig.github.io/) for short). We recently participated in 2017's [Code4PA Hackathon](https://technical.ly/philly/2017/11/03/final-projects-code4pa-hackathon/), and our project has gotten some attention from the governor's office.
 
 I also [fix video game consoles](#) as a side hustle.
