@@ -26,11 +26,3 @@ permalink: /projects/
 ### *[Count Blogula](http://countblogula.herokuapp.com)*
 #### a CRUD blog
   * made with: **Rails**
-
-## Other
-
-### [Inspector Moon](http://inspectormoon.bandcamp.com)
-#### my punk rock band with Nick DeAngelo and [Alex Vallejo](http://desperate.horse/)
-
-### *[Barcelona, 1972](https://thecollapsar.org/the-collapsar-archive/2016/02/19/barcelona-1972-by-sandro-braidotti)*
-#### a short story published in *The Collapsar*, an online literary journal, in 2016
