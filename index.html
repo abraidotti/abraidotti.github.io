@@ -2,17 +2,23 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div id="main" role="main" class="container">
+  <article class="page">
+    <div class="entry">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <p>Hi!</p>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+      <h3 id="latest-updates">Latest updates</h3>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+      <ul>
+        <li>
+        <p>I wrote a <a href="./drizzl/">blog post</a> about Drizzl, my final project for NYCDA's three-month web-development intensive bootcamp.</p>
+        </li>
+        <li>
+        <p>The <em>Philadelphia Research and Innovation Group</em> (<a href="https://phrig.github.io/">PhRIG</a> for short) is going strong. We recently participated in 2017’s <a href="https://technical.ly/philly/2017/11/03/final-projects-code4pa-hackathon/">Code4PA Hackathon</a>, and our project has gotten some attention from the governor’s office. I'll post more about this once we get a working app running.</p>
+        </li>
+      </ul>
+
+    </div>
+  </article>
 </div>
