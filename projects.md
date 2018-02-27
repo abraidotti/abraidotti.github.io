@@ -4,6 +4,15 @@ title: projects
 permalink: /projects/
 ---
 
+### *[Really Philly](https://reallyphilly.herokuapp.com/)* - a React App
+  <details>
+    <summary>
+      Show details
+    </summary>
+    <p>made with: <strong>React, React Router, and Philly's 311 API</strong>
+    <p>see the <a href="https://github.com/abraidotti/philad311phia">git repo</a> for more information.</p>
+    <img src="/img/projects/really-philly-screenshot.png">
+
 ### *[Drizzl](http://drizzl.herokuapp.com)* - a generative weather-art app
 <details>
   <summary>
@@ -14,7 +23,6 @@ permalink: /projects/
   <p>see the <a href="http://www.github.com/abraidotti/drizzl">git repo</a> for more information.</p>
   <img src="/img/projects/drizzl-screenshot.png">
 </details>
-
 
 ### *[Trippin](http://trippin-app.herokuapp.com)* - a trip and event planner
 <details>
@@ -39,12 +47,3 @@ permalink: /projects/
   <p>see the <a href="https://github.com/phrig/cashflow-pa-rails">git repo</a> for more information.</p>
   <img src="/img/projects/cashflow-pa-screenshot.png">
 </details>
-
-### *[Count Blogula](http://countblogula.herokuapp.com)* - a CRUD blog
-  <details>
-    <summary>
-      Show details
-    </summary>
-    <p>made with: <strong>Rails</strong>
-    <p>see the <a href="https://github.com/abraidotti/count-blogula">git repo</a> for more information.</p>
-    <img src="/img/projects/count-blogula-screenshot.png">
