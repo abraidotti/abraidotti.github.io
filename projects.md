@@ -5,13 +5,14 @@ permalink: /projects/
 ---
 
 ### *[Really Philly](https://reallyphilly.herokuapp.com/)* - a React App
-  <details>
-    <summary>
-      Show details
-    </summary>
-    <p>made with: <strong>React, React Router, and Philly's 311 API</strong>
-    <p>see the <a href="https://github.com/abraidotti/philad311phia">git repo</a> for more information.</p>
-    <img src="/img/projects/really-philly-screenshot.png">
+<details>
+  <summary>
+    Show details
+  </summary>
+  <p>made with: <strong>React, React Router, and Philly's 311 API</strong>
+  <p>see the <a href="https://github.com/abraidotti/philad311phia">git repo</a> for more information.</p>
+  <img src="/img/projects/really-philly-screenshot.png">
+</details>
 
 ### *[Drizzl](http://drizzl.herokuapp.com)* - a generative weather-art app
 <details>
