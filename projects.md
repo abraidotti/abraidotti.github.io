@@ -9,7 +9,7 @@ permalink: /projects/
   <summary>
     Show details
   </summary>
-  <p>made with: <strong>React, React Router, and Philly's 311 API</strong>
+  <p>made with: <strong>React, React Router, and Philly's 311 API</strong></p>
   <p>see the <a href="https://github.com/abraidotti/philad311phia">git repo</a> for more information.</p>
   <img src="/img/projects/really-philly-screenshot.png">
 </details>
