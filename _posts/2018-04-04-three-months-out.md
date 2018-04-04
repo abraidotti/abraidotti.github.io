@@ -57,7 +57,7 @@ Click on the arrows to see what I've explored:
   <summary>
     describe "details" do
   </summary>
-  <p>Cash Flow PA lives! You can learn more about this open-source project I started with some friends on <a href="http://phrig.org/2018-01-28-cashflow-pa-summary/">PhRIG's site</a>.</p>
+  <p><a href="http://cashflowpa.org">Cash Flow PA</a> lives! You can learn more about this open-source project I started with some friends on <a href="http://phrig.org/2018-01-28-cashflow-pa-summary/">PhRIG's site</a>.</p>
   <p>Our meeting with the Pennsylvania Governor's Office staff went really well! I've documented Cash Flow PA's current development in a <a href="http://phrig.org/2018-03-28-release-and-roadmap/">separate blog post</a>.</p>
   <p>As we rolled out v1, we've decided to shore up the app, which includes writing tests. Here's an example of a couple rspec tests I contributed to this past weekend.</p>
   <img src="/img/2018-04-04-three-months-out/cash-flow-pa-rspec.png">
