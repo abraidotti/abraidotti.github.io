@@ -5,7 +5,7 @@ title: Three Months Out of Bootcamp
 
 I graduated NYCDA's web intensive bootcamp three months ago, and I've branched out to learn as much as I can in the web dev world.
 
-Here's what I've explored:
+Click on the arrows to see what I've explored:
 
 ### React
 <details>
