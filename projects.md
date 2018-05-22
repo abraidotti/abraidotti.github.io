@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 ---
 
-### *[Really Philly](https://reallyphilly.herokuapp.com/)* - a React App
+### *[Really Philly](https://reallyphilly.herokuapp.com/)* - a tool for exploring Philly's 311 service
 <details>
   <summary>
     Show details
