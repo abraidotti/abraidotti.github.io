@@ -4,9 +4,9 @@ title: about
 permalink: /about/
 ---
 
-My name's Alessandro Braidotti (Sandro for short). I'm a full stack web developer interested in React, asset scripting (like with Unity), and DevOps, among a lot of other things. ([Resume here]({{ site.url }}/downloadable/alessandro-braidotti-resume.pdf)).
+My name's Alessandro Braidotti (Sandro for short). I'm a full stack web developer interested in keeping the internet secure. ([Resume here]({{ site.url }}/downloadable/alessandro-braidotti-resume.pdf)).
 
-Before I learned how to make websites, I [taught writing and literature](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1321388) at Temple University and then worked at a [publishing startup](http://www.bookbaby.com).
+Before I learned how to make websites, I [taught writing and literature](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1321388) at Temple University and then worked in publishing.
 
 #### Ongoing stuff
 
