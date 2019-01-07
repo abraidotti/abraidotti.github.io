@@ -4,29 +4,29 @@ title: projects
 permalink: /projects/
 ---
 
-### *[Philly Bike Finder](http://pbf-react.herokuapp.com)* - a location tool for Indego bike stations
+### *[Philly Bike Finder](http://pbf-react.netlify.com)* - a location tool for Indego bike stations
 <details>
   <summary>
     Show details
   </summary>
   <p>made with <strong>React and Bootstrap</strong></p>
-  <p>uses: Google Maps API</p>
+  <p>uses: Google Maps API, Indego bikes API</p>
   <p>see the <a href="http://www.github.com/abraidotti/pbf-react">git repo</a> for more information.</p>
   <img src="/img/projects/pbf-react-screenshot.png">
 </details>
 
-### *[Drizzl v2](http://drizzl-react.herokuapp.com)* - a generative weather-art app
+### *[Drizzl v2](http://drizzl-react.netlify.com)* - a generative weather-art app
 <details>
   <summary>
     Show details
   </summary>
   <p>made with <strong>React and Material UI</strong></p>
-  <p>uses: particles.js, the Darksky API, and lots of colors</p>
+  <p>uses: <a href="https://vincentgarreau.com/particles.js/">particles.js</a>, the Dark Sky weather API, and lots of colors</p>
   <p>see the <a href="http://www.github.com/abraidotti/drizzl-react">git repo</a> for more information.</p>
   <img src="/img/projects/drizzl-react-screenshot.png">
 </details>
 
-### *[Really Philly](https://reallyphilly.herokuapp.com/)* - a tool for exploring Philly's 311 service
+### *[Really Philly](https://reallyphilly.netlify.com/)* - a tool for exploring Philly's 311 service
 <details>
   <summary>
     Show details

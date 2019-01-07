@@ -6,14 +6,18 @@ permalink: /about/
 
 My name's Alessandro Braidotti (Sandro for short). I'm a full stack web developer interested in keeping the internet secure. ([Resume here]({{ site.url }}/downloadable/alessandro-braidotti-resume.pdf)).
 
-Before I learned how to make websites, I [taught writing and literature](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1321388) at Temple University and then worked in publishing.
-
 #### Ongoing stuff
 
 - [PhRIG](https://phrig.github.io/), the Philadelphia Research and Innovation Group, comprises me and some friends here in Philly. We take on software and hardware projects.
 
 - I like to write. "[Barcelona, 1972](https://thecollapsar.org/the-collapsar-archive/2016/02/19/barcelona-1972-by-sandro-braidotti)"
 is a short story I wrote that was published in *The Collapsar* in 2016. I'm also currently working on an AWS dictionary with [The Item](https://www.theitem.org/), a local tech/entrepreneur group here in Philly that promotes diversity and inclusion.
+
+- I and play bass and "sing" in a goth punk band called [Inspector Moon](https://inspectormoon.bandcamp.com).
+
+### Previously
+
+Before I learned how to make websites, I [taught writing and literature](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1321388) at Temple University and then worked in publishing.
 
 #### About this site
 
