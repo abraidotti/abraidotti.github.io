@@ -4,9 +4,29 @@ title: projects
 permalink: /projects/
 ---
 
-### UPDATES COMING SOON 😅
+### *[Philly Bike Finder](http://pbf-react.netlify.com)* - a location tool for Indego bike stations
+<details>
+  <summary>
+    Show details
+  </summary>
+  <p>made with <strong>React and Bootstrap</strong></p>
+  <p>uses: Google Maps API, Indego bikes API</p>
+  <p>see the <a href="http://www.github.com/abraidotti/pbf-react">git repo</a> for more information.</p>
+  <img src="/img/projects/pbf-react-screenshot.png">
+</details>
 
-### *[Really Philly](https://reallyphilly.herokuapp.com/)* - a tool for exploring Philly's 311 service
+### *[Drizzl v2](http://drizzl-react.netlify.com)* - a generative weather-art app
+<details>
+  <summary>
+    Show details
+  </summary>
+  <p>made with <strong>React and Material UI</strong></p>
+  <p>uses: <a href="https://vincentgarreau.com/particles.js/">particles.js</a>, the Dark Sky weather API, and lots of colors</p>
+  <p>see the <a href="http://www.github.com/abraidotti/drizzl-react">git repo</a> for more information.</p>
+  <img src="/img/projects/drizzl-react-screenshot.png">
+</details>
+
+### *[Really Philly](https://reallyphilly.netlify.com/)* - a tool for exploring Philly's 311 service
 <details>
   <summary>
     Show details
@@ -16,16 +36,7 @@ permalink: /projects/
   <img src="/img/projects/really-philly-screenshot.png">
 </details>
 
-### *[Drizzl](http://drizzl.herokuapp.com)* - a generative weather-art app
-<details>
-  <summary>
-    Show details
-  </summary>
-  <p>made with <strong>Node/Express.js</strong></p>
-  <p>uses: Google Maps API, Darksky.net API, html canvas</p>
-  <p>see the <a href="http://www.github.com/abraidotti/drizzl">git repo</a> for more information.</p>
-  <img src="/img/projects/drizzl-screenshot.png">
-</details>
+## earlier projects:
 
 ### *[Trippin](http://trippin-app.herokuapp.com)* - a trip and event planner
 <details>
@@ -37,6 +48,17 @@ permalink: /projects/
   <p>uses: Ruby on Rails, Google Maps API, Simple Calendar gem</p>
   <p>see the <a href="http://www.github.com/abraidotti/cal">git repo</a> for more information.</p>
   <img src="/img/projects/trippin-screenshot.png">
+</details>
+
+### *[Drizzl v1](http://drizzl.herokuapp.com)* - a generative weather-art app
+<details>
+  <summary>
+    Show details
+  </summary>
+  <p>made with <strong>Node/Express.js</strong></p>
+  <p>uses: Google Maps API, Darksky.net API, html canvas</p>
+  <p>see the <a href="http://www.github.com/abraidotti/drizzl">git repo</a> for more information.</p>
+  <img src="/img/projects/drizzl-screenshot.png">
 </details>
 
 ### *[Cash Flow PA](https://github.com/phrig/cash_flow_pa)* - a Pennsylvania election money mapper
