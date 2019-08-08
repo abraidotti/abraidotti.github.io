@@ -11,9 +11,7 @@ My name's Alessandro Braidotti (Sandro for short). I'm a full stack web develope
 - [PhRIG](https://phrig.github.io/), the Philadelphia Research and Innovation Group, comprises me and some friends here in Philly. We take on software and hardware projects.
 
 - I like to write. "[Barcelona, 1972](https://thecollapsar.org/the-collapsar-archive/2016/02/19/barcelona-1972-by-sandro-braidotti)"
-is a short story I wrote that was published in *The Collapsar* in 2016. I'm also currently working on an AWS dictionary with [The Item](https://www.theitem.org/), a local tech/entrepreneur group here in Philly that promotes diversity and inclusion.
-
-- I and play bass and "sing" in a goth punk band called [Inspector Moon](https://inspectormoon.bandcamp.com).
+is a short story I wrote that was published in *The Collapsar* in 2016. I haven't submitted anything else lately, but I work on stories about once a month.
 
 ### Previously
 
