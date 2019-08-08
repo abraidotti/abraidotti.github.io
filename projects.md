@@ -34,7 +34,7 @@ permalink: /projects/
   </summary>
   <p>developed in a group with <a href="https://devin-hart.github.io/">Devin Hart</a> and <a href="https://nwitte4.github.io/">Nikki Witte</a></p>
   <p>made with <strong>Ruby on Rails</strong> and styled with Skeleton.css</p>
-  <p>uses: Google Maps API, GMaps4Rails gem, Simple Calendar gem</p>
+  <p>uses: Ruby on Rails, Google Maps API, Simple Calendar gem</p>
   <p>see the <a href="http://www.github.com/abraidotti/cal">git repo</a> for more information.</p>
   <img src="/img/projects/trippin-screenshot.png">
 </details>
