@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August, 2019: latest updates
+title: August, 2019 - latest updates
 ---
 
 ![Hot weather hiking in Nockamixon](../img/2019-08-04-august-update/sandro-nockamixon.jpg "Hot weather hiking in Nockamixon"){:class="img-responsive"}
