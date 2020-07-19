@@ -4,7 +4,20 @@ title: projects
 permalink: /projects/
 ---
 
+## Lately
+
+- I've been working on a floor-to-ceiling terraform-serverless-react app that can be spun up and serve a static page from nothing. you will be able to see it at [my other site](https://sandrobraidotti.com) and see [the code](https://github.com/abraidotti/sandrobraidotti.com) when ready.
+
+- I've also been customizing some boilerplate python hacking tools with scapy
+
+- I need to figure out the best way to show off my best Splunk dashboards
+
+===============================================================================
+
+## These are all pretty old by now
+
 ### *[Philly Bike Finder](http://pbf-react.netlify.com)* - a location tool for Indego bike stations
+
 <details>
   <summary>
     Show details
@@ -16,6 +29,7 @@ permalink: /projects/
 </details>
 
 ### *[Drizzl v2](http://drizzl-react.netlify.com)* - a generative weather-art app
+
 <details>
   <summary>
     Show details
@@ -27,6 +41,7 @@ permalink: /projects/
 </details>
 
 ### *[Really Philly](https://reallyphilly.netlify.com/)* - a tool for exploring Philly's 311 service
+
 <details>
   <summary>
     Show details
@@ -36,9 +51,10 @@ permalink: /projects/
   <img src="/img/projects/really-philly-screenshot.png">
 </details>
 
-## earlier projects:
+## earlier projects
 
 ### *[Trippin](http://trippin-app.herokuapp.com)* - a trip and event planner
+
 <details>
   <summary>
     Show details
@@ -51,6 +67,7 @@ permalink: /projects/
 </details>
 
 ### *[Drizzl v1](http://drizzl.herokuapp.com)* - a generative weather-art app
+
 <details>
   <summary>
     Show details
@@ -62,6 +79,7 @@ permalink: /projects/
 </details>
 
 ### *[Cash Flow PA](https://github.com/phrig/cash_flow_pa)* - a Pennsylvania election money mapper
+
 <details>
   <summary>
     Show details
