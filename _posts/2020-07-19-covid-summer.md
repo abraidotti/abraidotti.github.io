@@ -5,6 +5,10 @@ title: covid summer
 
 ![Hot weather hiking in the Pine Barrens](../img/2020-07-19-covid-summer/san-pines.jpg "Hot weather hiking in the Pine Barrens"){:class="img-responsive"}
 
-The time of the virus, 2020. The brutality continues.
+Love (for the outdoors) in time of Covid-19.
 
-Lots of indoor time reading, coding, and video games. Trying to stay off [Twitter](https://twitter.com/sandy___beaches) and slow down the news.
+Otherwise, so much indoor time reading, coding, and video games. Trying to stay off [Twitter](https://twitter.com/sandy___beaches) and slow down the news.
+
+This website will soon disappear. You can check out my new [site](https://sandrobraidotti.com) as I develop it.
+
+♥ S

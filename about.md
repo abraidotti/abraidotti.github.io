@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-My name's Alessandro Braidotti (Sandro for short). I'm an IT and app engineer interested in keeping the internet secure. ([Resume here]({{ site.url }}/downloadable/alessandro-braidotti-resume.pdf)).
+My name's Alessandro Braidotti (Sandro for short). I'm an IT and app engineer interested in keeping the internet secure. ([Resume here]({{ site.url }}/downloadable/alessandro-braidotti-dev-resume.pdf)).
 
 #### Ongoing stuff
 
